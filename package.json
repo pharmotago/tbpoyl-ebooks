@@ -1,0 +1,24 @@
+{
+  "name": "tbpoyl-ebooks",
+  "version": "1.0.0",
+  "description": "TBPOYL - ebooks you need (The Best Purchase Of Your Life)",
+  "scripts": {
+    "deploy": "git push origin main",
+    "deploy:staging": "git push origin staging",
+    "deploy:vercel": "vercel --prod --yes",
+    "deploy:prod": "vercel --prod --yes",
+    "sync-deploy": "powershell -Command \"Copy-Item src/* public/ -Recurse -Force; git add -A; git commit -m 'sync [auto]'; git push origin main\"",
+    "sync-kdp": "node scripts/sync_kdp_books.js",
+    "git:status": "git status -s",
+    "create:stripe-links": "node scripts/create_sovereign_stripe_links.js",
+    "deploy:clean": "node scripts/deploy_clean.js",
+    "vercel:alias": "vercel alias ls --scope mcjp",
+    "set:aliases": "vercel alias set tbpoyl-nkphvped6-mcjp.vercel.app tbpoyl.vercel.app --scope mcjp && vercel alias set tbpoyl-nkphvped6-mcjp.vercel.app ebook-landing.vercel.app --scope mcjp",
+    "dev": "npx -y serve src"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "pg": "^8.23.0",
+    "stripe": "^22.3.2"
+  }
+}

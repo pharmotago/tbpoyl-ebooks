@@ -1,0 +1,122 @@
+[
+  {
+    "id": "habit-system-90-days",
+    "title": "The 90-Day Habit System",
+    "description": "Build lasting habits in 90 days using micro-commitments, if-then plans, and the Never Zero Twice rule. Includes printable 90-day tracker.",
+    "price": 9.99,
+    "paymentUrl": "https://buy.stripe.com/14AaEQ4tC22OemF5ID0Ny2U",
+    "downloadUrl": "./downloads/The_90_Day_Habit_System.epub",
+    "image": "./images/cover_habit_system.jpg",
+    "category": "Productivity & Habits",
+    "rating": "4.9",
+    "reviews": 189
+  },
+  {
+    "id": "cognitive-citadel",
+    "title": "Cognitive Citadel: The Sovereign Architect of Mind",
+    "description": "A master framework for mental clarity, deep work, and antifragile thought in an age of infinite distraction. Master your attention economy.",
+    "price": 14.99,
+    "paymentUrl": "https://buy.stripe.com/8x23cof8g36Scexc710Ny2V",
+    "downloadUrl": "./downloads/Cognitive_Citadel.epub",
+    "image": "./images/cover_cognitive_citadel.jpg",
+    "category": "Mindset & Leadership",
+    "rating": "5.0",
+    "reviews": 214
+  },
+  {
+    "id": "longevity-protocol",
+    "title": "The Longevity Protocol",
+    "description": "The daily food & glucose tracking journal for CGM users to optimize metabolic flexibility, identify sugar spikes, and map healthspan trends.",
+    "price": 9.99,
+    "paymentUrl": "https://buy.stripe.com/7sYeV6bW4azk2DXgnh0Ny2W",
+    "downloadUrl": "./downloads/The_Longevity_Protocol.epub",
+    "image": "./images/cover_longevity.jpg",
+    "category": "Biohacking & Health",
+    "rating": "4.9",
+    "reviews": 167
+  },
+  {
+    "id": "hybrid-performance-log",
+    "title": "The Hybrid Performance Log",
+    "description": "The biometric & training companion for WHOOP, Oura, and Apple Watch users to map strain, sleep, and HRV to peak physical performance.",
+    "price": 9.99,
+    "paymentUrl": "https://buy.stripe.com/28E3co0dmdLw4M5fjd0Ny2X",
+    "downloadUrl": "./downloads/The_Hybrid_Performance_Log.epub",
+    "image": "./images/cover_hybrid.jpg",
+    "category": "Biohacking & Health",
+    "rating": "4.9",
+    "reviews": 145
+  },
+  {
+    "id": "vagus-nerve-log",
+    "title": "The Vagus Nerve Stimulation Log",
+    "description": "The daily tracking companion for Pulsetto, Truvaga, and VNS device users to optimize HRV, calm anxiety, and balance the autonomic nervous system.",
+    "price": 9.99,
+    "paymentUrl": "https://buy.stripe.com/dRm8wI7FOfTEcex7QL0Ny2Y",
+    "downloadUrl": "./downloads/The_Vagus_Nerve_Log.epub",
+    "image": "./images/cover_vagus.jpg",
+    "category": "Biohacking & Health",
+    "rating": "4.8",
+    "reviews": 128
+  },
+  {
+    "id": "adhd-executive-planner",
+    "title": "The ADHD Daily Executive Function Planner",
+    "description": "A low-friction daily action journal to overcome task paralysis, regulate dopamine, and build momentum designed for the neurodivergent brain.",
+    "price": 9.99,
+    "paymentUrl": "https://buy.stripe.com/cNi00c2lu7n81zTb2X0Ny2Z",
+    "downloadUrl": "./downloads/The_ADHD_Planner.epub",
+    "image": "./images/cover_adhd.jpg",
+    "category": "Productivity & Habits",
+    "rating": "5.0",
+    "reviews": 256
+  },
+  {
+    "id": "dopamine-reset-protocol",
+    "title": "The Dopamine Reset Protocol",
+    "description": "A 30-day guided detox to reclaim focus, break digital addiction, and restore natural drive and motivation.",
+    "price": 9.99,
+    "paymentUrl": "https://buy.stripe.com/cNifZa5xGdLwfqJ5ID0Ny30",
+    "downloadUrl": "./downloads/The_Dopamine_Reset.epub",
+    "image": "./images/cover_dopamine.jpg",
+    "category": "Mindset & Leadership",
+    "rating": "4.9",
+    "reviews": 178
+  },
+  {
+    "id": "stoic-resilience-logbook",
+    "title": "The Stoic Resilience Logbook",
+    "description": "Daily exercises in emotional control, the dichotomy of control, and antifragile fortitude rooted in Marcus Aurelius and Seneca.",
+    "price": 9.99,
+    "paymentUrl": "https://buy.stripe.com/eVqbIU6BKcHs3I11sn0Ny31",
+    "downloadUrl": "./downloads/The_Stoic_Resilience_Logbook.epub",
+    "image": "./images/cover_stoic.jpg",
+    "category": "Mindset & Leadership",
+    "rating": "4.9",
+    "reviews": 192
+  },
+  {
+    "id": "mcjp-restart-28-days",
+    "title": "MCJP Restart: 28 Days to Stable",
+    "description": "A tough-love reset for people rebuilding after failure. Practical money triage, work restart strategies, and accountability systems.",
+    "price": 9.99,
+    "paymentUrl": "https://buy.stripe.com/6oU14g3pycHsdiB5ID0Ny32",
+    "downloadUrl": "./downloads/MCJP_Restart_28_Days.epub",
+    "image": "./images/cover_mcjp_restart.jpg",
+    "category": "Productivity & Habits",
+    "rating": "4.9",
+    "reviews": 310
+  },
+  {
+    "id": "sovereign-mind-vault",
+    "title": "The Sovereign Mind: 9-Book Executive Mastery Vault",
+    "description": "The complete 9-volume executive collection. Includes both reflowable EPUB 3.0 and high-res print PDFs for all 9 flagship books + bonus trackers.",
+    "price": 69,
+    "paymentUrl": "https://buy.stripe.com/9B6dR26BKfTE0vP8UP0Ny33",
+    "downloadUrl": "./downloads/Cognitive_Citadel.epub",
+    "image": "./images/cover_sovereign_vault.svg",
+    "category": "Executive Bundles",
+    "rating": "5.0",
+    "reviews": 480
+  }
+]
